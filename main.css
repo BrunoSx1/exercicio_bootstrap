@@ -1,0 +1,23 @@
+body {
+    background-color: #fce4ec;
+}    
+button {
+    background-color: #2196f3;
+    color: #ffffff;
+    width: 100%;
+    margin-top: 16px;
+    justify-content: center;
+}
+
+body, button {
+    color: #000000;
+}
+
+h2, label {
+    text-align: center;
+}
+
+.form-group:last-child {
+    margin-bottom: 1rem;
+}
+
